@@ -21,4 +21,4 @@ I plan and optimize a live mobile network (GSM, UMTS, LTE, 5G) and build the dat
 - [I Built a Medical AI Model That Knows When to Say "I'm Not Sure"](https://medium.com/@pmpdilshan/i-built-a-medical-ai-model-that-knows-when-to-say-im-not-sure-7462a336b8ce)
 - [I Built Three Reinforcement Learning Agents. The "Improved" Ones Lost.](https://medium.com/@pmpdilshan/i-built-three-reinforcement-learning-agents-the-improved-ones-lost-9be147431c34)
 
-**Find me:** [Website](https://pmpdilshan.github.io/) · [LinkedIn](https://www.linkedin.com/in/pathum-dilshan/) · [Medium](https://medium.com/@pmpdilshan) · [Kaggle](https://www.kaggle.com/pathumdil) · pmpdilshan@gmail.com
+**Find me:** [Website](https://pmpdilshan.github.io/) · [LinkedIn](https://www.linkedin.com/in/pathum-dilshan/) · [Medium](https://medium.com/@pmpdilshan) · [Kaggle](https://www.kaggle.com/pathumdil) · [DEV](https://dev.to/pmpdilshan) · [Hugging Face](https://huggingface.co/PathumDilshan) · [ORCID](https://orcid.org/0009-0007-4597-2005) · pmpdilshan@gmail.com
