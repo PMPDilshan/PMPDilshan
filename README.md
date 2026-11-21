@@ -12,6 +12,12 @@ I plan and optimize a live mobile network (GSM, UMTS, LTE, 5G) and build the dat
 **Skills:** RF/RAN optimization · LTE/5G · Python · SQL · Apache Airflow · Machine Learning · Deep Learning · Power BI · Looker Studio · AWS
 
 **Writing**
+- [Your Network Alarms Are Lying to You: static KPI thresholds and the concept-drift trap](https://pmpdilshan.github.io/kpi-anomaly-detection.html)
+- [Swapping 500+ Live Cell Sites Without Customers Noticing: Lessons from a Vendor Swap](https://pmpdilshan.github.io/vendor-swap-lessons.html)
+- [How I Automated 10M+ Network KPI Records a Day with Python and Apache Airflow](https://pmpdilshan.github.io/airflow-kpi-pipeline.html)
+- [From Drive Tests to Data Pipelines: Why I Went from RF Engineer to Data & AI](https://pmpdilshan.github.io/rf-engineer-to-data-ai.html)
+- [What 817,741 Supermarket Transactions Taught Me About Reading Data](https://pmpdilshan.github.io/supermarket-sales-insights.html)
+- [I Built a Sales Dashboard. Here's What I'd Change.](https://pmpdilshan.github.io/dashboard-design-lessons.html)
 - [I Built a Medical AI Model That Knows When to Say "I'm Not Sure"](https://medium.com/@pmpdilshan/i-built-a-medical-ai-model-that-knows-when-to-say-im-not-sure-7462a336b8ce)
 - [I Built Three Reinforcement Learning Agents. The "Improved" Ones Lost.](https://medium.com/@pmpdilshan/i-built-three-reinforcement-learning-agents-the-improved-ones-lost-9be147431c34)
 
